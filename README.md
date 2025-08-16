@@ -13,4 +13,4 @@ In this project, we created a model which will help us in identification of huma
 - OpenCv
 - Tensorflow
 
- 
+ All details are shown in preview section of the code
